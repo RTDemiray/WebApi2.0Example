@@ -1,0 +1,12 @@
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\bin\Debug\Programming.DAL.dll.config
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\bin\Debug\Programming.DAL.dll
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\bin\Debug\Programming.DAL.pdb
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\bin\Debug\EntityFramework.dll
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\bin\Debug\EntityFramework.xml
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\obj\Debug\Programming.DAL.csproj.CoreCompileInputs.cache
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\obj\Debug\Programming.DAL.csproj.CopyComplete
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\obj\Debug\Programming.DAL.dll
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\obj\Debug\Programming.DAL.pdb
+D:\Yaptığım Projeler\WebApi Dersleri\ProgrammingApp\Programming.DAL\obj\Debug\Programming.DAL.csprojAssemblyReference.cache
